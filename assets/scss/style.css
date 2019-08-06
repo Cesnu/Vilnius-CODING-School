@@ -1,0 +1,22 @@
+*, 
+*::before,
+*::after {
+	box-sizing:border-box;
+}
+
+h3{
+	color: red;
+}
+
+.title{
+	font-family: arial;
+	font-size: 25px;
+	font-style: italic;
+	font-weight: 100;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p{
+	color: #999999;
+}
